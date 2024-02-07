@@ -33,13 +33,7 @@ export function Socials() {
       />
 
    
-      <img className='w-fi transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-500'
-        src='public\kaggle.png'
-        width={500}
-        height={500}
-        alt='Picture of the author'
-        onClick={() => handleClick('https://www.kaggle.com/joelsiby02')}
-      />
+      
       
       </div>
     </div>
