@@ -34,7 +34,7 @@ export function Socials() {
 
    
       <img className='w-fi transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-500'
-        src='D:\web\Portfolio_Website\public\189_Kaggle_logo_logos-1024 (1).webp'
+        src='D:\web\Portfolio_Website\public\kaggle.webp'
         width={500}
         height={500}
         alt='Picture of the author'
